@@ -1,0 +1,742 @@
+anio,residencia_muncipio_id ,residencia_muncipio_nombre,cantidad 
+2017,06007,Adolfo Alsina,1
+2017,06014,Adolfo Gonzales Chaves,1
+2017,06021,Alberti,1
+2017,06028,Almirante Brown,61
+2017,06035,Avellaneda,40
+2017,06042,Ayacucho,4
+2017,06049,Azul,2
+2017,06056,Bahía Blanca,18
+2017,06063,Balcarce,4
+2017,06070,Baradero,2
+2017,06077,Arrecifes,4
+2017,06084,Benito Juárez,2
+2017,06091,Berazategui,38
+2017,06098,Berisso,5
+2017,06105,Bolívar,2
+2017,06112,Bragado,6
+2017,06119,Brandsen,3
+2017,06126,Campana,8
+2017,06134,Cañuelas,2
+2017,06140,Capitán Sarmiento,0
+2017,06147,Carlos Casares,1
+2017,06154,Carlos Tejedor,1
+2017,06161,Carmen de Areco,0
+2017,06168,Castelli,0
+2017,06175,Colón,2
+2017,06182,Coronel de Marina Leonardo Rosales,5
+2017,06189,Coronel Dorrego,0
+2017,06196,Coronel Pringles,2
+2017,06203,Coronel Suárez,2
+2017,06210,Chacabuco,2
+2017,06218,Chascomús,2
+2017,06224,Chivilcoy,11
+2017,06231,Daireaux,2
+2017,06238,Dolores,3
+2017,06245,Ensenada,5
+2017,06252,Escobar,19
+2017,06260,Esteban Echeverría,40
+2017,06266,Exaltación de la Cruz,2
+2017,06270,Ezeiza,27
+2017,06274,Florencio Varela,65
+2017,06277,Florentino Ameghino,0
+2017,06280,General Alvarado,6
+2017,06287,General Alvear,2
+2017,06294,General Arenales,0
+2017,06301,General Belgrano,2
+2017,06308,General Guido,1
+2017,06315,General Juan Madariaga,2
+2017,06322,General La Madrid,0
+2017,06329,General Las Heras,0
+2017,06336,General Lavalle,0
+2017,06343,General Paz,2
+2017,06351,General Pinto,1
+2017,06357,General Pueyrredón,51
+2017,06364,General Rodríguez,5
+2017,06371,General San Martín,38
+2017,06385,General Viamonte,1
+2017,06392,General Villegas,1
+2017,06399,Guaminí,0
+2017,06406,Hipólito Yrigoyen,0
+2017,06408,Hurlingham,8
+2017,06410,Ituzaingó,11
+2017,06412,José C. Paz,43
+2017,06413,Junín,8
+2017,06420,La Costa,9
+2017,06427,La Matanza,196
+2017,06434,Lanús,55
+2017,06441,La Plata,68
+2017,06448,Laprida,1
+2017,06455,Las Flores,0
+2017,06462,Leandro N. Alem,0
+2017,06466,Lezama,1
+2017,06469,Lincoln,2
+2017,06476,Lobería,0
+2017,06483,Lobos,2
+2017,06490,Lomas de Zamora,117
+2017,06497,Luján,13
+2017,06505,Magdalena,2
+2017,06511,Maipú,0
+2017,06515,Malvinas Argentinas,34
+2017,06518,Mar Chiquita,0
+2017,06525,Marcos Paz,8
+2017,06532,Mercedes,7
+2017,06539,Merlo,56
+2017,06547,Monte,1
+2017,06553,Monte Hermoso,0
+2017,06560,Moreno,64
+2017,06568,Morón,12
+2017,06574,Navarro,3
+2017,06581,Necochea,7
+2017,06588,9 de Julio,4
+2017,06595,Olavarría,1
+2017,06602,Patagones,4
+2017,06609,Pehuajó,6
+2017,06616,Pellegrini,2
+2017,06623,Pergamino,10
+2017,06630,Pila,0
+2017,06638,Pilar,47
+2017,06644,Pinamar,2
+2017,06648,Presidente Perón,18
+2017,06651,Puán,1
+2017,06655,Punta Indio,1
+2017,06658,Quilmes,86
+2017,06665,Ramallo,5
+2017,06672,Rauch,0
+2017,06679,Rivadavia,2
+2017,06686,Rojas,3
+2017,06693,Roque Pérez,3
+2017,06700,Saavedra,1
+2017,06707,Saladillo,2
+2017,06714,Salto,5
+2017,06721,Salliqueló,0
+2017,06728,San Andrés de Giles,2
+2017,06735,San Antonio de Areco,3
+2017,06742,San Cayetano,1
+2017,06749,San Fernando,18
+2017,06756,San Isidro,23
+2017,06760,San Miguel,47
+2017,06763,San Nicolás,10
+2017,06770,San Pedro,11
+2017,06778,San Vicente,7
+2017,06784,Suipacha,0
+2017,06791,Tandil,6
+2017,06798,Tapalqué,0
+2017,06805,Tigre,47
+2017,06812,Tordillo,0
+2017,06819,Tornquist,2
+2017,06826,Trenque Lauquen,5
+2017,06833,Tres Arroyos,7
+2017,06840,Tres de Febrero,32
+2017,06847,Tres Lomas,0
+2017,06854,25 de Mayo,2
+2017,06861,Vicente López,8
+2017,06868,Villa Gesell,0
+2017,06875,Villarino,2
+2017,06882,Zárate,19
+2017,06999,Ignorado,361
+2018,06007,Adolfo Alsina,1
+2018,06014,Adolfo Gonzales Chaves,1
+2018,06021,Alberti,0
+2018,06028,Almirante Brown,65
+2018,06035,Avellaneda,35
+2018,06042,Ayacucho,1
+2018,06049,Azul,1
+2018,06056,Bahía Blanca,26
+2018,06063,Balcarce,4
+2018,06070,Baradero,2
+2018,06077,Arrecifes,1
+2018,06084,Benito Juárez,2
+2018,06091,Berazategui,41
+2018,06098,Berisso,9
+2018,06105,Bolívar,1
+2018,06112,Bragado,7
+2018,06119,Brandsen,2
+2018,06126,Campana,9
+2018,06134,Cañuelas,5
+2018,06140,Capitán Sarmiento,1
+2018,06147,Carlos Casares,0
+2018,06154,Carlos Tejedor,2
+2018,06161,Carmen de Areco,1
+2018,06168,Castelli,2
+2018,06175,Colón,1
+2018,06182,Coronel de Marina Leonardo Rosales,0
+2018,06189,Coronel Dorrego,0
+2018,06196,Coronel Pringles,2
+2018,06203,Coronel Suárez,0
+2018,06210,Chacabuco,3
+2018,06218,Chascomús,3
+2018,06224,Chivilcoy,9
+2018,06231,Daireaux,1
+2018,06238,Dolores,3
+2018,06245,Ensenada,6
+2018,06252,Escobar,15
+2018,06260,Esteban Echeverría,44
+2018,06266,Exaltación de la Cruz,4
+2018,06270,Ezeiza,25
+2018,06274,Florencio Varela,91
+2018,06277,Florentino Ameghino,0
+2018,06280,General Alvarado,3
+2018,06287,General Alvear,0
+2018,06294,General Arenales,1
+2018,06301,General Belgrano,0
+2018,06308,General Guido,0
+2018,06315,General Juan Madariaga,1
+2018,06322,General La Madrid,1
+2018,06329,General Las Heras,0
+2018,06336,General Lavalle,0
+2018,06343,General Paz,0
+2018,06351,General Pinto,0
+2018,06357,General Pueyrredón,63
+2018,06364,General Rodríguez,4
+2018,06371,General San Martín,26
+2018,06385,General Viamonte,0
+2018,06392,General Villegas,5
+2018,06399,Guaminí,1
+2018,06406,Hipólito Yrigoyen,0
+2018,06408,Hurlingham,9
+2018,06410,Ituzaingó,9
+2018,06412,José C. Paz,40
+2018,06413,Junín,6
+2018,06420,La Costa,7
+2018,06427,La Matanza,186
+2018,06434,Lanús,53
+2018,06441,La Plata,70
+2018,06448,Laprida,0
+2018,06455,Las Flores,0
+2018,06462,Leandro N. Alem,0
+2018,06466,Lezama,1
+2018,06469,Lincoln,3
+2018,06476,Lobería,0
+2018,06483,Lobos,1
+2018,06490,Lomas de Zamora,107
+2018,06497,Luján,3
+2018,06505,Magdalena,1
+2018,06511,Maipú,0
+2018,06515,Malvinas Argentinas,43
+2018,06518,Mar Chiquita,2
+2018,06525,Marcos Paz,6
+2018,06532,Mercedes,6
+2018,06539,Merlo,53
+2018,06547,Monte,0
+2018,06553,Monte Hermoso,0
+2018,06560,Moreno,61
+2018,06568,Morón,16
+2018,06574,Navarro,2
+2018,06581,Necochea,5
+2018,06588,9 de Julio,4
+2018,06595,Olavarría,0
+2018,06602,Patagones,2
+2018,06609,Pehuajó,4
+2018,06616,Pellegrini,1
+2018,06623,Pergamino,2
+2018,06630,Pila,1
+2018,06638,Pilar,49
+2018,06644,Pinamar,1
+2018,06648,Presidente Perón,9
+2018,06651,Puán,0
+2018,06655,Punta Indio,0
+2018,06658,Quilmes,87
+2018,06665,Ramallo,2
+2018,06672,Rauch,0
+2018,06679,Rivadavia,2
+2018,06686,Rojas,0
+2018,06693,Roque Pérez,1
+2018,06700,Saavedra,1
+2018,06707,Saladillo,1
+2018,06714,Salto,3
+2018,06721,Salliqueló,0
+2018,06728,San Andrés de Giles,0
+2018,06735,San Antonio de Areco,5
+2018,06742,San Cayetano,0
+2018,06749,San Fernando,19
+2018,06756,San Isidro,28
+2018,06760,San Miguel,50
+2018,06763,San Nicolás,7
+2018,06770,San Pedro,8
+2018,06778,San Vicente,4
+2018,06784,Suipacha,1
+2018,06791,Tandil,6
+2018,06798,Tapalqué,2
+2018,06805,Tigre,38
+2018,06812,Tordillo,0
+2018,06819,Tornquist,5
+2018,06826,Trenque Lauquen,4
+2018,06833,Tres Arroyos,1
+2018,06840,Tres de Febrero,40
+2018,06847,Tres Lomas,0
+2018,06854,25 de Mayo,4
+2018,06861,Vicente López,17
+2018,06868,Villa Gesell,3
+2018,06875,Villarino,2
+2018,06882,Zárate,12
+2018,06999,Ignorado,49
+2019,06007,Adolfo Alsina,0
+2019,06014,Adolfo Gonzales Chaves,1
+2019,06021,Alberti,0
+2019,06028,Almirante Brown,60
+2019,06035,Avellaneda,36
+2019,06042,Ayacucho,0
+2019,06049,Azul,1
+2019,06056,Bahía Blanca,19
+2019,06063,Balcarce,2
+2019,06070,Baradero,0
+2019,06077,Arrecifes,3
+2019,06084,Benito Juárez,0
+2019,06091,Berazategui,36
+2019,06098,Berisso,6
+2019,06105,Bolívar,1
+2019,06112,Bragado,1
+2019,06119,Brandsen,2
+2019,06126,Campana,7
+2019,06134,Cañuelas,6
+2019,06140,Capitán Sarmiento,0
+2019,06147,Carlos Casares,0
+2019,06154,Carlos Tejedor,0
+2019,06161,Carmen de Areco,1
+2019,06168,Castelli,0
+2019,06175,Colón,0
+2019,06182,Coronel de Marina Leonardo Rosales,1
+2019,06189,Coronel Dorrego,1
+2019,06196,Coronel Pringles,0
+2019,06203,Coronel Suárez,1
+2019,06210,Chacabuco,5
+2019,06218,Chascomús,1
+2019,06224,Chivilcoy,3
+2019,06231,Daireaux,0
+2019,06238,Dolores,0
+2019,06245,Ensenada,10
+2019,06252,Escobar,19
+2019,06260,Esteban Echeverría,40
+2019,06266,Exaltación de la Cruz,2
+2019,06270,Ezeiza,22
+2019,06274,Florencio Varela,44
+2019,06277,Florentino Ameghino,1
+2019,06280,General Alvarado,1
+2019,06287,General Alvear,0
+2019,06294,General Arenales,0
+2019,06301,General Belgrano,0
+2019,06308,General Guido,0
+2019,06315,General Juan Madariaga,0
+2019,06322,General La Madrid,0
+2019,06329,General Las Heras,1
+2019,06336,General Lavalle,0
+2019,06343,General Paz,0
+2019,06351,General Pinto,0
+2019,06357,General Pueyrredón,26
+2019,06364,General Rodríguez,1
+2019,06371,General San Martín,20
+2019,06385,General Viamonte,0
+2019,06392,General Villegas,0
+2019,06399,Guaminí,0
+2019,06406,Hipólito Yrigoyen,0
+2019,06408,Hurlingham,8
+2019,06410,Ituzaingó,8
+2019,06412,José C. Paz,21
+2019,06413,Junín,3
+2019,06420,La Costa,2
+2019,06427,La Matanza,131
+2019,06434,Lanús,34
+2019,06441,La Plata,52
+2019,06448,Laprida,1
+2019,06455,Las Flores,0
+2019,06462,Leandro N. Alem,0
+2019,06466,Lezama,0
+2019,06469,Lincoln,0
+2019,06476,Lobería,1
+2019,06483,Lobos,3
+2019,06490,Lomas de Zamora,89
+2019,06497,Luján,0
+2019,06505,Magdalena,0
+2019,06511,Maipú,1
+2019,06515,Malvinas Argentinas,29
+2019,06518,Mar Chiquita,0
+2019,06525,Marcos Paz,4
+2019,06532,Mercedes,1
+2019,06539,Merlo,47
+2019,06547,Monte,0
+2019,06553,Monte Hermoso,2
+2019,06560,Moreno,44
+2019,06568,Morón,14
+2019,06574,Navarro,1
+2019,06581,Necochea,3
+2019,06588,9 de Julio,1
+2019,06595,Olavarría,0
+2019,06602,Patagones,1
+2019,06609,Pehuajó,1
+2019,06616,Pellegrini,0
+2019,06623,Pergamino,6
+2019,06630,Pila,0
+2019,06638,Pilar,58
+2019,06644,Pinamar,3
+2019,06648,Presidente Perón,14
+2019,06651,Puán,0
+2019,06655,Punta Indio,0
+2019,06658,Quilmes,71
+2019,06665,Ramallo,3
+2019,06672,Rauch,0
+2019,06679,Rivadavia,0
+2019,06686,Rojas,0
+2019,06693,Roque Pérez,0
+2019,06700,Saavedra,1
+2019,06707,Saladillo,1
+2019,06714,Salto,1
+2019,06721,Salliqueló,1
+2019,06728,San Andrés de Giles,2
+2019,06735,San Antonio de Areco,1
+2019,06742,San Cayetano,0
+2019,06749,San Fernando,14
+2019,06756,San Isidro,17
+2019,06760,San Miguel,14
+2019,06763,San Nicolás,9
+2019,06770,San Pedro,1
+2019,06778,San Vicente,4
+2019,06784,Suipacha,1
+2019,06791,Tandil,8
+2019,06798,Tapalqué,1
+2019,06805,Tigre,37
+2019,06812,Tordillo,0
+2019,06819,Tornquist,0
+2019,06826,Trenque Lauquen,3
+2019,06833,Tres Arroyos,2
+2019,06840,Tres de Febrero,26
+2019,06847,Tres Lomas,0
+2019,06854,25 de Mayo,1
+2019,06861,Vicente López,11
+2019,06868,Villa Gesell,1
+2019,06875,Villarino,0
+2019,06882,Zárate,7
+2019,06999,Ignorado,204
+2020,06007,Adolfo Alsina,0
+2020,06014,Adolfo Gonzales Chaves,1
+2020,06021,Alberti,0
+2020,06028,Almirante Brown,41
+2020,06035,Avellaneda,21
+2020,06042,Ayacucho,2
+2020,06049,Azul,0
+2020,06056,Bahía Blanca,12
+2020,06063,Balcarce,1
+2020,06070,Baradero,0
+2020,06077,Arrecifes,1
+2020,06084,Benito Juárez,1
+2020,06091,Berazategui,30
+2020,06098,Berisso,4
+2020,06105,Bolívar,2
+2020,06112,Bragado,3
+2020,06119,Brandsen,4
+2020,06126,Campana,5
+2020,06134,Cañuelas,1
+2020,06140,Capitán Sarmiento,0
+2020,06147,Carlos Casares,0
+2020,06154,Carlos Tejedor,2
+2020,06161,Carmen de Areco,2
+2020,06168,Castelli,0
+2020,06175,Colón,0
+2020,06182,Coronel de Marina Leonardo Rosales,2
+2020,06189,Coronel Dorrego,1
+2020,06196,Coronel Pringles,0
+2020,06203,Coronel Suárez,0
+2020,06210,Chacabuco,4
+2020,06218,Chascomús,2
+2020,06224,Chivilcoy,2
+2020,06231,Daireaux,0
+2020,06238,Dolores,0
+2020,06245,Ensenada,4
+2020,06252,Escobar,27
+2020,06260,Esteban Echeverría,25
+2020,06266,Exaltación de la Cruz,0
+2020,06270,Ezeiza,18
+2020,06274,Florencio Varela,58
+2020,06277,Florentino Ameghino,0
+2020,06280,General Alvarado,1
+2020,06287,General Alvear,0
+2020,06294,General Arenales,1
+2020,06301,General Belgrano,0
+2020,06308,General Guido,0
+2020,06315,General Juan Madariaga,1
+2020,06322,General La Madrid,0
+2020,06329,General Las Heras,1
+2020,06336,General Lavalle,0
+2020,06343,General Paz,0
+2020,06351,General Pinto,0
+2020,06357,General Pueyrredón,12
+2020,06364,General Rodríguez,10
+2020,06371,General San Martín,20
+2020,06385,General Viamonte,0
+2020,06392,General Villegas,1
+2020,06399,Guaminí,0
+2020,06406,Hipólito Yrigoyen,0
+2020,06408,Hurlingham,4
+2020,06410,Ituzaingó,6
+2020,06412,José C. Paz,29
+2020,06413,Junín,3
+2020,06420,La Costa,5
+2020,06427,La Matanza,138
+2020,06434,Lanús,30
+2020,06441,La Plata,50
+2020,06448,Laprida,0
+2020,06455,Las Flores,0
+2020,06462,Leandro N. Alem,2
+2020,06466,Lezama,0
+2020,06469,Lincoln,1
+2020,06476,Lobería,0
+2020,06483,Lobos,1
+2020,06490,Lomas de Zamora,60
+2020,06497,Luján,7
+2020,06505,Magdalena,0
+2020,06511,Maipú,0
+2020,06515,Malvinas Argentinas,15
+2020,06518,Mar Chiquita,0
+2020,06525,Marcos Paz,0
+2020,06532,Mercedes,0
+2020,06539,Merlo,34
+2020,06547,Monte,0
+2020,06553,Monte Hermoso,1
+2020,06560,Moreno,35
+2020,06568,Morón,6
+2020,06574,Navarro,1
+2020,06581,Necochea,2
+2020,06588,9 de Julio,2
+2020,06595,Olavarría,2
+2020,06602,Patagones,1
+2020,06609,Pehuajó,0
+2020,06616,Pellegrini,0
+2020,06623,Pergamino,3
+2020,06630,Pila,0
+2020,06638,Pilar,45
+2020,06644,Pinamar,1
+2020,06648,Presidente Perón,12
+2020,06651,Puán,0
+2020,06655,Punta Indio,2
+2020,06658,Quilmes,39
+2020,06665,Ramallo,1
+2020,06672,Rauch,0
+2020,06679,Rivadavia,1
+2020,06686,Rojas,0
+2020,06693,Roque Pérez,0
+2020,06700,Saavedra,0
+2020,06707,Saladillo,1
+2020,06714,Salto,0
+2020,06721,Salliqueló,0
+2020,06728,San Andrés de Giles,0
+2020,06735,San Antonio de Areco,0
+2020,06742,San Cayetano,0
+2020,06749,San Fernando,15
+2020,06756,San Isidro,13
+2020,06760,San Miguel,22
+2020,06763,San Nicolás,3
+2020,06770,San Pedro,2
+2020,06778,San Vicente,8
+2020,06784,Suipacha,0
+2020,06791,Tandil,3
+2020,06798,Tapalqué,0
+2020,06805,Tigre,27
+2020,06812,Tordillo,0
+2020,06819,Tornquist,0
+2020,06826,Trenque Lauquen,0
+2020,06833,Tres Arroyos,1
+2020,06840,Tres de Febrero,10
+2020,06847,Tres Lomas,0
+2020,06854,25 de Mayo,0
+2020,06861,Vicente López,9
+2020,06868,Villa Gesell,1
+2020,06875,Villarino,2
+2020,06882,Zárate,3
+2020,06999,Ignorado,45
+2021,06028,Almirante Brown,57
+2021,06035,Avellaneda,35
+2021,06042,Ayacucho,1
+2021,06049,Azul,4
+2021,06056,Bahía Blanca,3
+2021,06063,Balcarce,2
+2021,06070,Baradero,4
+2021,06077,Arrecifes,2
+2021,06084,Benito Juárez,1
+2021,06091,Berazategui,26
+2021,06098,Berisso,6
+2021,06112,Bragado,2
+2021,06119,Brandsen,2
+2021,06126,Campana,6
+2021,06134,Cañuelas,3
+2021,06154,Carlos Tejedor,1
+2021,06168,Castelli,1
+2021,06175,Colón,1
+2021,06182,Coronel de Marina Leonardo Rosales,1
+2021,06196,Coronel Pringles,4
+2021,06203,Coronel Suárez,3
+2021,06210,Chacabuco,1
+2021,06218,Chascomús,3
+2021,06224,Chivilcoy,3
+2021,06245,Ensenada,6
+2021,06252,Escobar,19
+2021,06260,Esteban Echeverría,33
+2021,06270,Ezeiza,18
+2021,06274,Florencio Varela,43
+2021,06277,Florentino Ameghino,1
+2021,06280,General Alvarado,2
+2021,06315,General Juan Madariaga,1
+2021,06322,General La Madrid,1
+2021,06329,General Las Heras,2
+2021,06343,General Paz,1
+2021,06357,General Pueyrredón,31
+2021,06364,General Rodríguez,9
+2021,06371,General San Martín,26
+2021,06385,General Viamonte,1
+2021,06406,Hipólito Yrigoyen,2
+2021,06408,Hurlingham,6
+2021,06410,Ituzaingó,8
+2021,06412,José C. Paz,20
+2021,06413,Junín,6
+2021,06420,La Costa,1
+2021,06427,La Matanza,140
+2021,06434,Lanús,38
+2021,06441,La Plata,63
+2021,06448,Laprida,1
+2021,06462,Leandro N. Alem,1
+2021,06466,Lezama,1
+2021,06469,Lincoln,1
+2021,06483,Lobos,4
+2021,06490,Lomas de Zamora,65
+2021,06497,Luján,9
+2021,06511,Maipú,1
+2021,06515,Malvinas Argentinas,22
+2021,06525,Marcos Paz,7
+2021,06532,Mercedes,3
+2021,06539,Merlo,48
+2021,06547,Monte,3
+2021,06553,Monte Hermoso,1
+2021,06560,Moreno,49
+2021,06568,Morón,9
+2021,06581,Necochea,8
+2021,06588,9 de Julio,5
+2021,06602,Patagones,1
+2021,06616,Pellegrini,1
+2021,06623,Pergamino,8
+2021,06638,Pilar,50
+2021,06644,Pinamar,3
+2021,06648,Presidente Perón,9
+2021,06651,Puán,1
+2021,06658,Quilmes,57
+2021,06665,Ramallo,3
+2021,06686,Rojas,3
+2021,06693,Roque Pérez,1
+2021,06700,Saavedra,2
+2021,06707,Saladillo,3
+2021,06714,Salto,1
+2021,06742,San Cayetano,1
+2021,06749,San Fernando,12
+2021,06756,San Isidro,15
+2021,06760,San Miguel,28
+2021,06763,San Nicolás,2
+2021,06770,San Pedro,3
+2021,06778,San Vicente,7
+2021,06784,Suipacha,1
+2021,06791,Tandil,8
+2021,06805,Tigre,29
+2021,06819,Tornquist,1
+2021,06826,Trenque Lauquen,3
+2021,06833,Tres Arroyos,3
+2021,06840,Tres de Febrero,19
+2021,06854,25 de Mayo,2
+2021,06861,Vicente López,9
+2021,06868,Villa Gesell,1
+2021,06875,Villarino,1
+2021,06882,Zárate,5
+2021,06999,Ignorado,41
+2022,06007,Adolfo Alsina,3
+2022,06021,Alberti,12
+2022,06028,Almirante Brown,46
+2022,06035,Avellaneda,25
+2022,06042,Ayacucho,2
+2022,06049,Azul,1
+2022,06056,Bahía Blanca,18
+2022,06063,Balcarce,1
+2022,06077,Arrecifes,1
+2022,06091,Berazategui,23
+2022,06098,Berisso,9
+2022,06105,Bolívar,1
+2022,06112,Bragado,6
+2022,06119,Brandsen,1
+2022,06126,Campana,10
+2022,06134,Cañuelas,1
+2022,06140,Capitán Sarmiento,2
+2022,06161,Carmen de Areco,1
+2022,06175,Colón,2
+2022,06182,Coronel de Marina Leonardo Rosales,2
+2022,06196,Coronel Pringles,1
+2022,06203,Coronel Suárez,1
+2022,06210,Chacabuco,2
+2022,06218,Chascomús,2
+2022,06224,Chivilcoy,1
+2022,06245,Ensenada,5
+2022,06252,Escobar,19
+2022,06260,Esteban Echeverría,29
+2022,06270,Ezeiza,10
+2022,06274,Florencio Varela,59
+2022,06277,Florentino Ameghino,1
+2022,06280,General Alvarado,1
+2022,06294,General Arenales,1
+2022,06301,General Belgrano,5
+2022,06315,General Juan Madariaga,1
+2022,06329,General Las Heras,2
+2022,06357,General Pueyrredón,43
+2022,06364,General Rodríguez,13
+2022,06371,General San Martín,16
+2022,06399,Guaminí,1
+2022,06406,Hipólito Yrigoyen,7
+2022,06408,Hurlingham,15
+2022,06410,Ituzaingó,5
+2022,06412,José C. Paz,24
+2022,06413,Junín,5
+2022,06420,La Costa,7
+2022,06427,La Matanza,93
+2022,06434,Lanús,20
+2022,06441,La Plata,53
+2022,06455,Las Flores,2
+2022,06462,Leandro N. Alem,1
+2022,06469,Lincoln,2
+2022,06483,Lobos,2
+2022,06490,Lomas de Zamora,89
+2022,06497,Luján,9
+2022,06505,Magdalena,3
+2022,06511,Maipú,1
+2022,06515,Malvinas Argentinas,26
+2022,06518,Mar Chiquita,1
+2022,06525,Marcos Paz,8
+2022,06532,Mercedes,3
+2022,06539,Merlo,53
+2022,06547,Monte,1
+2022,06553,Monte Hermoso,1
+2022,06560,Moreno,43
+2022,06568,Morón,10
+2022,06581,Necochea,2
+2022,06602,Patagones,1
+2022,06623,Pergamino,3
+2022,06638,Pilar,29
+2022,06644,Pinamar,1
+2022,06648,Presidente Perón,10
+2022,06655,Punta Indio,2
+2022,06658,Quilmes,53
+2022,06665,Ramallo,4
+2022,06672,Rauch,1
+2022,06700,Saavedra,1
+2022,06707,Saladillo,5
+2022,06714,Salto,1
+2022,06749,San Fernando,16
+2022,06756,San Isidro,14
+2022,06760,San Miguel,22
+2022,06763,San Nicolás,2
+2022,06770,San Pedro,4
+2022,06778,San Vicente,11
+2022,06784,Suipacha,1
+2022,06791,Tandil,3
+2022,06805,Tigre,32
+2022,06826,Trenque Lauquen,5
+2022,06833,Tres Arroyos,3
+2022,06840,Tres de Febrero,15
+2022,06854,25 de Mayo,3
+2022,06861,Vicente López,6
+2022,06868,Villa Gesell,1
+2022,06875,Villarino,5
+2022,06882,Zárate,5
+2022,06999,Ignorado,237
